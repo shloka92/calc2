@@ -1,0 +1,6 @@
+timestamp,filename,record_number,operation,result
+1639439814.76851,sample.csv,1.0,+,5.0
+1639439814.768571,sample.csv,2.0,-,2.0
+1639439814.768616,sample.csv,3.0,/,2.0
+1639439814.768656,sample.csv,4.0,*,4.0
+1639449348.200913,sample.csv,4.0,*,4.0

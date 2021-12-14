@@ -1,0 +1,9 @@
+num1,num2,operation,result
+4,5,add_number,9.0
+5,6,subtract_number,-1.0
+5,5,subtract_number,0.0
+5,4,multiply_numbers,20.0
+45,5,divide_numbers,9.0
+5,6,multiply_numbers,30.0
+5,5,multiply_numbers,25.0
+4,6,multiply_numbers,24

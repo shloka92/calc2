@@ -1,4 +1,4 @@
-.idea
+git.idea
 .cache
 .local
 .pytest_cache
@@ -6,3 +6,4 @@
 __pycache__
 .coverage
 .DS_Store
+app/templates/base.html

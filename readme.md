@@ -33,4 +33,10 @@ setup.py is a config file for pytest
 # History of Operation
 ![history](screenshot/history.png)
 
+# Project 2
+![project2](screenshot/project21.png)
+
+# Separation of Contents
+![separation](screenshot/project22.png)
+
 
